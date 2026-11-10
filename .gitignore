@@ -1,0 +1,8 @@
+company_data/
+backups/
+__pycache__/
+damage_test/
+.pending-*/
+.restore-*/
+.previous-*/
+.demo-*/
